@@ -25,7 +25,7 @@ MenuPage.fxml
 Controller.java
 Sample.fxml
 
-Niyathi Ashar:
+Niyati Ashar:
 Customer_entry.java 
 Customer_entry.fxml
 Customer_list.java 
