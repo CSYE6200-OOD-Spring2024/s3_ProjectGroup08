@@ -3,7 +3,7 @@
 
 ******* s3_ProjectGroup08 **********
 
-Title : Car Showroom inventory System.
+Title : Car Showroom inventory System
 
 In this project we have JAVA classes and UI is made using JavaFX.
 The objective of the project is to enable the user to add customer, Car and Order details and save it and also be able to display the collective data respectively.
@@ -41,7 +41,7 @@ Satish Paraddi:
 Order_entry.java
 Order_list.java
 
-Sai Gurunadh 
+Sai Gurunadh: 
 Order_entry.fxml
 Order_list.fxml
 Order.java
